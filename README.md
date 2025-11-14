@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=F7B22C&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Furkan+Kasap" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=F7B22C&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋;I'm+Furkan+Kasap" alt="Typing SVG" />
+</p>
 
 
 I'm passionate about AI, Machine Learning, and Deep Learning. I enjoy trying out new tools, building small prototypes, and exploring how modern ML systems work.
